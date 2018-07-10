@@ -1,0 +1,22 @@
+-----------------para definir una funcion en python se utiliza la PR def.
+--se pueden colocar comentarios como docstring: """docstring""" que describe lo que la funcion hace
+-- para llamar una funcion se hace de la siguiente manera n_funcion(), y se necesita pasar
+ informacion se utilizan parametros que estan dentro de los parentesis de la funcion.
+
+ --Argumentos: es informacion que se pasa desde una llamada de una funcion a la funcion, cuando se llama a
+ una funcion,  localizamos el valor que queremos en la funcion a trabajar detro de parentesis, este valor 
+ se almacenara en el parametro que tiene la funcion que se llamo.
+--Para pasar argumentos varias formas como: argumentos posicionales, aqui debe ser el mismo orden de los
+parametros como fueron colocados en las funciones. tambien estan los argumentos de palabra clave donde cada
+argumento consiste de un nombre de variable y un valor.
+
+--argumentos por palabras clave, se le asigna una clave y un valor a los argumentos que se pasen al realizar
+una llamada de funcion, aqui no inporta el orden de que se coloquen los parametros, se debe colocar el mismo nombre del parametro en la funcion.
+
+--Llamadas de funciones equivalentes: 
+
+
+---Retornar valores con funciones:
+Toma un valor desde dentro de la funcion y lo regresa a la linea donde se llamo la funcion.
+
+
