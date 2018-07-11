@@ -1,13 +1,18 @@
-import car
+# importando modulo car
+# se pueden tener varias clases en un solo modulo e importar unicamente la clase con la que se va trabajar,
+# ademas se pueden incluir varias clase de un modulo a la vez
+from car import car
 
-class CarroElectrico(car.car):
+# en este caso se trabajara con modulos separados para importar clase car del modulo car
+
+
+class CarroElectrico(car):
     """a simple attempt to represent a electric car"""
     def __init__(self, make, model, year):
         super().__init__(make, model, year)
         self.bateria = Battery()
 
-   # def ver_carga(self):
-         # print("la duracion de bateria es de : "+str(self.bateria))
+
 # instances as attributes
 class Battery():
     """A simple attempt to model a battery for an electric car."""
@@ -31,7 +36,7 @@ class Battery():
         print(message)
 
 
-tesla =CarroElectrico('tesla', 'z 1', '2018')
+tesla = CarroElectrico('tesla', 'z 1', '2018')
 print(tesla.descriptive_name())
 tesla.bateria.describe_battery()
 tesla.bateria.get_range()
