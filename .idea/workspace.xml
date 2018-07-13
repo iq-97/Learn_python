@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4751a97a-ac64-46d8-a23e-9c54f92c69f1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/EstandardLibrary/favorite_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/count_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/luck_of_dudley.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/one_million_pi_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/pi_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/write_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/electric_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/electric_car.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +23,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="favorite_languages.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/EstandardLibrary/favorite_languages.py">
+      <file leaf-file-name="division.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="180">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alice.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="luck_of_dudley.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/luck_of_dudley.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="6261" lean-forward="true" selection-start-line="6261" selection-end-line="6261" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="count_words.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/count_words.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="83" lean-forward="true" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alice.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -44,6 +87,15 @@
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/car.py" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/electric_car.py" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/EstandardLibrary/favorite_languages.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/pi_digits.txt" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/file_reader.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/one_million_pi_digits.txt" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/write_message.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.txt" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/luck_of_dudley.txt" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/count_words.py" />
       </list>
     </option>
   </component>
@@ -82,7 +134,7 @@
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
               <item name="PythonCrashcourse" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="EstandardLibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,6 +145,13 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file" />
+      <recent name="$PROJECT_DIR$/PythonCrashcourse/resources" />
+      <recent name="$PROJECT_DIR$/PythonCrashcourse/files" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.favorite_languages">
-    <configuration name="electric_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.alice">
+    <configuration name="alice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +174,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/electric_car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="division" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +220,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="my_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,26 +228,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/my_car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/file_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="write_message" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/writting_file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/write_message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.electric_car" />
-      <item itemvalue="Python.my_car" />
       <item itemvalue="Python.favorite_languages" />
+      <item itemvalue="Python.file_reader" />
+      <item itemvalue="Python.write_message" />
+      <item itemvalue="Python.division" />
+      <item itemvalue="Python.alice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alice" />
+        <item itemvalue="Python.division" />
+        <item itemvalue="Python.write_message" />
+        <item itemvalue="Python.file_reader" />
         <item itemvalue="Python.favorite_languages" />
-        <item itemvalue="Python.electric_car" />
-        <item itemvalue="Python.my_car" />
       </list>
     </recent_temporary>
   </component>
@@ -194,13 +293,13 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296355" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -214,6 +313,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/write_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/EstandardLibrary/favorite_languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Carro/car.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -256,6 +376,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/pi_digits.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/one_million_pi_digits.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/reading_file/file_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/write_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/writting_file/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/luck_of_dudley.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="6261" lean-forward="true" selection-start-line="6261" selection-end-line="6261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/count_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="83" lean-forward="true" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
