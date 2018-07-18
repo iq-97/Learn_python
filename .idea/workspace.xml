@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4751a97a-ac64-46d8-a23e-9c54f92c69f1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/numbers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/remember_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/username.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/log_error.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/language_survey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/survey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/test_survey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/name_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/test_name_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/count_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/count_words.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,38 +19,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="number_write.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_write.py">
+      <file leaf-file-name="survey.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/survey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="285">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="number_read.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_read.py">
+      <file leaf-file-name="language_survey.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/language_survey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="285">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="remember_me.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/remember_me.py">
+      <file leaf-file-name="test_survey.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/test_survey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nombre_usuario" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/nombre_usuario">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,6 +81,12 @@
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_read.py" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/username.json" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/remember_me.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/names.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/name_function.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/test_name_function.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/survey.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/language_survey.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/test_survey.py" />
       </list>
     </option>
   </component>
@@ -128,14 +125,23 @@
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
               <item name="PythonCrashcourse" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonWithJson" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
               <item name="PythonCrashcourse" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="writting_file" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Testing_Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_python" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonCrashcourse" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Testing_Function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.remember_me">
-    <configuration name="alice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_survey.py">
+    <configuration name="language_survey" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,17 +181,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/language_survey.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="division" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,47 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="number_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_read.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="number_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,20 +227,46 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/test_name_function.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_survey.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/test_survey.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list>
-      <item itemvalue="Python.division" />
-      <item itemvalue="Python.alice" />
-      <item itemvalue="Python.number_write" />
-      <item itemvalue="Python.number_read" />
       <item itemvalue="Python.remember_me" />
+      <item itemvalue="Python.names" />
+      <item itemvalue="Python tests.Unittests in test_name_function.py" />
+      <item itemvalue="Python.language_survey" />
+      <item itemvalue="Python tests.Unittests in test_survey.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_survey.py" />
+        <item itemvalue="Python.language_survey" />
+        <item itemvalue="Python tests.Unittests in test_name_function.py" />
+        <item itemvalue="Python.names" />
         <item itemvalue="Python.remember_me" />
-        <item itemvalue="Python.number_read" />
-        <item itemvalue="Python.number_write" />
-        <item itemvalue="Python.alice" />
-        <item itemvalue="Python.division" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +283,29 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_name_function_py - 2018.07.18 at 10h 49m 40s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2018.07.18 at 11h 40m 49s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2018.07.18 at 11h 54m 13s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2018.07.18 at 11h 56m 52s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2018.07.18 at 11h 56m 56s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2018.07.18 at 11h 57m 01s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_survey_py - 2018.07.18 at 14h 03m 28s.xml">
+      <configuration name="Unittests in test_survey.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1372" height="740" extended-state="6" />
     <editor active="true" />
@@ -294,26 +313,33 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3296355" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296355" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936608" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936608" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3296355" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/remember_me.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -512,20 +538,6 @@
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/log_error.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/username.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -540,9 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/usernames.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/usernames.json" />
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/nombre_usuario.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -553,10 +563,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/number_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/remember_me.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/name_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Function/test_name_function.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/language_survey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/survey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="438" column="8" selection-start-line="438" selection-start-column="8" selection-end-line="438" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/test_survey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
