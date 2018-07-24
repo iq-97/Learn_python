@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4751a97a-ac64-46d8-a23e-9c54f92c69f1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/enemy_ship.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,15 +16,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Learn_python$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1532459643027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="alien_invasion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="75">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enemy_ship.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/enemy_ship.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,8 +45,8 @@
       <file leaf-file-name="ship.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/ship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="28" column="69" lean-forward="true" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+            <state relative-caret-position="-152">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -42,8 +54,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="240">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -51,8 +63,8 @@
       <file leaf-file-name="game_functions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="-32">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -60,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bullet.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bullet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/bullet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="88">
+              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -110,11 +122,13 @@
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/survey.py" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/language_survey.py" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/resources/TestCode/Testing_Class/test_survey.py" />
-        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/ship.py" />
-        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py" />
-        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/settings.py" />
         <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/bullet.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/enemy_ship.py" />
       </list>
     </option>
   </component>
@@ -215,7 +229,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_survey.py">
+  <component name="RunManager" selected="Python.alien_invasion">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="language_survey" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,25 +287,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="remember_me" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonCrashcourse/resources/PythonWithJson/remember_me.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Learn_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,19 +316,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.remember_me" />
       <item itemvalue="Python.names" />
       <item itemvalue="Python tests.Unittests in test_name_function.py" />
       <item itemvalue="Python.language_survey" />
       <item itemvalue="Python tests.Unittests in test_survey.py" />
+      <item itemvalue="Python.alien_invasion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alien_invasion" />
         <item itemvalue="Python tests.Unittests in test_survey.py" />
         <item itemvalue="Python.language_survey" />
         <item itemvalue="Python tests.Unittests in test_name_function.py" />
         <item itemvalue="Python.names" />
-        <item itemvalue="Python.remember_me" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +379,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3296355" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -388,27 +402,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/division.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/luck_of_dudley.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93915">
-          <caret line="6261" lean-forward="true" selection-start-line="6261" selection-end-line="6261" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/count_words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="83" lean-forward="true" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/exceptions/alice.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -666,44 +659,68 @@
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/resources/Herencia/Persona/inheritance.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py">
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/bullet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="88">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/ship.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1247971764/pygame/surface.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="28" column="69" lean-forward="true" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="156">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/bullet.py">
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/ship.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="-152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/game_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonCrashcourse/projects/alien_invasion/enemy_ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
